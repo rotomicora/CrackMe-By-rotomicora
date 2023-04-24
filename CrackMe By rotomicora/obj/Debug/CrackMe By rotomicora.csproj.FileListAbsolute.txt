@@ -1,0 +1,13 @@
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\bin\Debug\CrackMe By rotomicora.exe.config
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\bin\Debug\CrackMe By rotomicora.exe
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\bin\Debug\CrackMe By rotomicora.pdb
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.csproj.AssemblyReference.cache
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe_By_Fran_Afp_.Form1.resources
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe_By_rotomicora.Properties.Resources.resources
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.csproj.GenerateResource.cache
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.csproj.CoreCompileInputs.cache
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.csproj.CopyComplete
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.exe
+C:\Users\rotomicora\Desktop\CrackMe By rotomicora\CrackMe By rotomicora\obj\Debug\CrackMe By rotomicora.pdb
